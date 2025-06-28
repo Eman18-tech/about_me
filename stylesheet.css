@@ -1,0 +1,41 @@
+
+div{
+    background-color: Grey;
+    height: 30px;
+    border-style: solid;
+}
+a{
+    margin-right: 150px;
+    text-decoration: none;
+    font-size: 25px;
+
+}
+input{
+    font-size: 20px;
+}
+button{
+    font-size: 15px;
+}
+img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: px; /* Optional */
+}
+h2{
+    font-size: 40px;
+    text-decoration: bold;
+    text-align: center;
+    font-style: italic;
+    color: palevioletred;
+    background-color: lightpink;
+
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+    text-decoration: bold;
+    color: lightcoral;
+    background-color: rgba(211, 211, 211, 0.5);
+}
